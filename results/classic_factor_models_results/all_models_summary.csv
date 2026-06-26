@@ -1,0 +1,2 @@
+model_name,factor_cols,valid_months,avg_monthly_unspanned_return,avg_demand_elasticity
+FF6,"MKT,SMB,HML,RMW,CMA,MOM",279,0.0012033386388956453,237.98695656273068

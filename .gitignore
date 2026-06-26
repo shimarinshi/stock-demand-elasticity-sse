@@ -1,0 +1,28 @@
+# IDE
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.py[cod]
+
+# CSMAR raw data - not redistributable
+*dailyret*.csv
+stockprice*.csv
+assetgrowth*.csv
+leverage*.csv
+ROA*.csv
+ROA.csv
+crsp_monthly*.csv
+fivefactor*.csv
+momfactor*.csv
+noriskrate*.csv
+industry_num*.csv
+market_value*.xlsx
+
+# Processed data - regeneratable from CSMAR
+monthly_stock_returns*.csv
+monthly_asset_growth*.csv
+monthly_leverage*.csv
+monthly_roa*.csv
